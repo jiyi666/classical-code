@@ -8,4 +8,5 @@
 
 #C++
 circlebuff：使用C++实现环形buffer的操作；
-myservice： Android中binder通信实现的最简demo；
+binder： Android中binder通信实现的最简demo;
+anonymity_binder:在binder实例的基础上，将demo修改为binder demo；
