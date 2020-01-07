@@ -10,3 +10,8 @@
 circlebuff：使用C++实现环形buffer的操作；
 binder： Android中binder通信实现的最简demo;
 anonymity_binder:在binder实例的基础上，将demo修改为binder demo；
+
+#C
+二级指针与数组的结合：使用二级指针与数组结合；
+callback:回调函数的典型使用，callback.h是回调函数的挂钩，callback.c是调用者，main.c是被调用者；
+编译指令为：gcc -I ./ main.c callback.c -o test
